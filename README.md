@@ -27,6 +27,14 @@ x.x.1
 ```
 レイアウトの更新の区切り(内容の更新なし）
 
+# Branch　
+
+- master 読める程度にまとめたもの。
+- snapshot　masterをpdfにしたもの。
+- writing　執筆中（一般的にはdevelop）
+- feature/**　特定の章等
+- hotfix/**　誤字脱字。レイアウトミス
+
 
 # How to make
 中でlatexを使用している。latexが入っている環境なら手元で製本できる。
