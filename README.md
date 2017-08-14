@@ -1,4 +1,6 @@
 # Story
+[![CircleCI](https://circleci.com/gh/MizukiSonoko/Story/tree/master.svg?style=svg)](https://circleci.com/gh/MizukiSonoko/Story/tree/master)  
+
 This is a read-only mirror of "水樹素子の物語"
 
 # Major Release List 
