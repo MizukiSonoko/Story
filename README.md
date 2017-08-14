@@ -2,7 +2,7 @@
 This is a read-only mirror of "水樹素子の物語"
 
 # Major Release List 
-- 水樹素子物語v0.1 C92(2017/8/13)
+- 水樹素子物語v0.1 C92(2017/8/13) [This](https://github.com/MizukiSonoko/Story/releases/tag/C92-v0.1)
 
 # Release numbering
 以下の規約でReleaseTagを切る。
