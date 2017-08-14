@@ -9,7 +9,7 @@ jobs:
       - run:
           name: Compile & Make pdf
           command: |
-            cd C92 &&
+            cd episode-1 &&
             uplatex content.tex &&
             dvipdfm content.dvi &&
             cd ..
