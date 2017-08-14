@@ -19,7 +19,8 @@ jobs:
           command: | 
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               apk add --no-cache bash git openssh
-              echo 'github.com' >> ~/.ssh/known_hosts
+              mkdir ~/.ssh
+              ssh-keyscan github.com >> ~/.ssh/known_hosts
             fi
       - deploy:
           name: Deploy nodels
