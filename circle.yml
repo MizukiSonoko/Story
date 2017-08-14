@@ -10,8 +10,15 @@ jobs:
           command: |
             cd C92 &&
             uplatex content.tex &&
-            dvipdfm content.dvi
+            dvipdfm content.dvi &&
+            cd ..
 
       - deploy:
           name: Deploy nodels
-          command: echo "ToDo (ToT)"
+          command: |
+            echo "＿人人人人＿" &&
+            echo "＞　 更新　＜" &&
+            echo "￣Y^Y^Y^Y￣" &&
+            echo "" &&
+            ./tools/auto-commit.sh
+
