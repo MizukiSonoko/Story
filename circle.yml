@@ -10,7 +10,7 @@ jobs:
           command: |
             cd C92 &&
             uplatex content.tex &&
-            dvipdfm content.tex
+            dvipdfm content.dvi
 
       - deploy:
           name: Deploy nodels
