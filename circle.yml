@@ -1,0 +1,17 @@
+version: 2.0
+jobs:
+  build:
+    docker:
+      image: ogajun/latex
+    steps:
+      - checkout
+      - run:
+          name: Compile & Make pdf
+          command: |
+            cd C92 &&
+            uplatex content.tex &&
+            dvipdfm content.tex
+
+      - deploy:
+          name: Deploy nodels
+          command: echo "ToDo (ToT)"
