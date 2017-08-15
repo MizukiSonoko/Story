@@ -35,6 +35,8 @@ x.x.1
 - feature/**　特定の章等
 - hotfix/**　誤字脱字。レイアウトミス
 
+# Current working branch
+[content.tex](https://github.com/MizukiSonoko/Story/blob/write/episode-1/content.tex)
 
 # How to make
 中でlatexを使用している。latexが入っている環境なら手元で製本できる。
