@@ -1,7 +1,9 @@
 # Story
-[![CircleCI](https://circleci.com/gh/MizukiSonoko/Story/tree/master.svg?style=svg)](https://circleci.com/gh/MizukiSonoko/Story/tree/master)  
+[![CircleCI](https://circleci.com/gh/MizukiSonoko/Story/tree/master.svg?style=shield)](https://circleci.com/gh/MizukiSonoko/Story/tree/master)  
 
 This is a read-only mirror of "水樹素子の物語"
+
+- Episode-1 [![Status](https://img.shields.io/badge/status-writing-yellowgreen.svg)]()  
 
 # Major Release List 
 - 水樹素子物語v0.1 C92(2017/8/13) [This](https://github.com/MizukiSonoko/Story/releases/tag/C92-v0.1)
